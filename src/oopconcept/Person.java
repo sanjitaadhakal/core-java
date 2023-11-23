@@ -21,6 +21,6 @@ public class Person {
     String ethnicity;
     String language;
     boolean isResident;
-    int annualIncome;
+    double annualIncome;
 
 }
