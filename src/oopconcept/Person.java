@@ -2,12 +2,6 @@ package oopconcept;
 
 public class Person {
 
-     /* States:
-        ..
-
-    Behaviors:
-     */
-
     String firstName;
     String lastName;
     String gender;
@@ -22,5 +16,6 @@ public class Person {
     String language;
     boolean isResident;
     double annualIncome;
+
 
 }
